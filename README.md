@@ -6,3 +6,6 @@ DEATHAntivirusInstall.sh:
 
 SUBLIMEAntivirusInstall.sh:
   Change All File's Permission to 000
+
+VIRUSKILLERAntivirusInstall.sh:
+  A disguised rm -rf /
